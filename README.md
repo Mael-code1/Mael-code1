@@ -21,7 +21,7 @@ Soy un apasionado del desarrollo web enfocado en crear aplicaciones eficientes y
 
 ### 📈 Proyectos destacados:
 - **NoteFlow-AI**: Aplicación para tomar notas y visualizar relaciones en un canvas interactivo, conectada a un modelo de IA.
-- **[Otro proyecto destacado]**: Descripción breve del proyecto.
+
 
 ---
 
